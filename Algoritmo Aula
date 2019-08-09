@@ -1,0 +1,30 @@
+ALGORITMO PARA PEGAR O ÔNIBUS:
+
+INICIO_ALGORITMO 
+
+1. Escolher o local onde irá ir
+2. verificar se possui o dinheiro para a passagem
+3. ir até o ponto de ônibus mais próximo
+4. aguardar a chegada do ônibus
+5. entrar no ônibus
+6. pagar a passagem
+7. prosseguir a viagem até o local desejado.
+8. sair do ônibus.
+
+
+
+
+ALGORITMO PARA TROCAR O PNEU DE UM CARRO:
+
+INICIO_ALGORITMO
+
+1. Desligar o carro
+2. Buscar as ferramentas necessárias
+3. tirar o step
+4. colocar a sinalização no próximo ao local
+5. com as ferramentas em mãos, afrochar o pneu
+6. utilizar o macaco para suspender o veículo
+7. efetuar a troca do pneu
+8. utilizar o macaco para baixar o veículo
+9. guardar todas ferramentas.
+10. sair com o veículo.
