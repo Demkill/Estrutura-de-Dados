@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+
+int main(void) {
+
+int quantidade, qts, i = 's';
+char produto[15];
+float preco_unitario, total;
+while(1){
+
+printf("Digite o Produto seguida a quantiade e o Preço Unitario: \n");
+printf("Para sair digite S\n");
+scanf("%s%d%f", &produto, &quantidade, &preco_unitario);
+if ( i != 10 || i == 's'){
+  break;
+}
+}
+
+total = preco_unitario * quantidade;
+printf("Produto: %s\t || Quantidade: %d\t || Preço Total: %.2f\n", produto, quantidade, total);
+
+
+  return 0;
+}
